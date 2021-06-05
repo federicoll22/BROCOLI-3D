@@ -10,3 +10,13 @@ var servidor= http.createServer(function(peticion, respuesta){
 
 servidor.listen(3000);
 console.log("Ejecutando un server local con un node.js");
+const cowsay= require ("cowsay");
+
+var cowsay = require("cowsay");
+
+console.log(cowsay.say({
+    text : "I'm a moooodule",
+    e : "oO",
+    T : "U "
+}));
+

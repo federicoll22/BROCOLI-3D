@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Federico Llanos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federicoll22/BROCOLI-3D.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/federicoll22/BROCOLI-3D/issues"
+  },
+  "homepage": "https://github.com/federicoll22/BROCOLI-3D#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
