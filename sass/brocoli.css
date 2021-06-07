@@ -56,7 +56,7 @@ p {
 }
 
 #uss {
-  font-family: beats;
+  font-family: beats,sans-serif !important;
   color: #000;
   font-size: 50px;
 }
