@@ -4,8 +4,7 @@ rgba(85,153,29,0.33237044817927175) 26%, rgba(104,189,28,0.29315476190476186) 51
 rgba(37,204,67,0.28755252100840334) 79%, 
 rgba(15,234,103,0.24833683473389356) 86%, rgba(9,243,114,0.23993347338935578) 92%, rgba(0,255,128,0.22872899159663862) 100%);
 
-$galederecha: polygon(0% 0%, 85% 0, 100% 50%, 89% 100%, 0% 100%);
-$galeizquierda:polygon(14% 0, 100% 0%, 100% 100%, 14% 100%, 0% 50%);
+
 
 
 
@@ -29,7 +28,7 @@ $galeizquierda:polygon(14% 0, 100% 0%, 100% 100%, 14% 100%, 0% 50%);
 }
 body{
     background-color:#097d0b !important;
-    background-image: url(/imagenes/cool-background.png);
+    background-image: url(/images/cool-background.png);
     background-repeat: no-repeat;
     background-size: cover;     
     background-attachment:fixed;
